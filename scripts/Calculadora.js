@@ -1,0 +1,1 @@
+window.Calculadora = new CalcController();
